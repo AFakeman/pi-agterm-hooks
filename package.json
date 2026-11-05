@@ -1,0 +1,10 @@
+{
+	"name": "pi-agterm-hooks",
+	"version": "1.0.0",
+	"description": "agterm lifecycle hooks for pi: agent-status glyphs, AI session titles, and restore pins",
+	"keywords": ["pi-package"],
+	"license": "MIT",
+	"peerDependencies": {
+		"@earendil-works/pi-coding-agent": "*"
+	}
+}
